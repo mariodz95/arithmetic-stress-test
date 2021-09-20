@@ -1,0 +1,11 @@
+.personal-data {
+  margin-top: 20px;
+  border-radius: 10px !important;
+  border: rgb(0, 0, 0);
+  border-style: solid;
+  height: 200px;
+}
+
+.btn-update-profile {
+  margin-top: 10px;
+}

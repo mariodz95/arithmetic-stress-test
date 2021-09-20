@@ -1,0 +1,49 @@
+.quiz {
+  text-align: center;
+  vertical-align: center;
+}
+
+.stressTestDuration {
+  text-align: center;
+  color: green;
+  font-size: 40px;
+}
+
+.newNumber {
+  text-align: center;
+  font-size: 30px;
+  color: black;
+}
+
+.score {
+  color: black;
+  font-size: 30px;
+  text-align: center;
+}
+
+.numbers {
+  color: black;
+  font-size: 30px;
+  text-align: center;
+}
+
+.quiz-box {
+  color: "blue";
+  padding: 20px;
+  border-style: solid;
+}
+
+.test-page {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.radio-btn {
+  color: White !important;
+}
+
+.no-data {
+  margin-top: 100px;
+  text-align: center;
+  margin-bottom: 100px;
+}

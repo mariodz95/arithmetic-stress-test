@@ -1,0 +1,124 @@
+#root {
+  background-color: #f0ebeb;
+  min-height: 100vh;
+  background-image: url("/src/background.png");
+}
+
+.bg-darkm,
+.navigationbar {
+  background-color: #c50d0d !important;
+}
+
+.btn {
+  background-color: #c50d0d !important;
+  border: #c50d0d !important;
+}
+
+label,
+.title {
+  color: #c50d0d !important;
+}
+
+input {
+  background-color: rgb(252, 183, 183) !important;
+}
+
+.card-body {
+  text-align: center;
+}
+
+.home {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  margin: 0;
+  align-items: center;
+}
+
+.home-img {
+  margin-top: 50px;
+  height: 800px;
+}
+
+.btn {
+  width: 200px;
+}
+
+.modal-body {
+  text-align: center;
+}
+
+.result {
+  text-align: center;
+  margin-top: 20px;
+  color: red;
+}
+
+.btn-group {
+  width: 500px;
+}
+
+.form-group {
+  margin-top: 20px;
+}
+
+.txt-before-test {
+  margin-top: 50px;
+}
+
+.personal-data-form {
+  margin-top: 20px;
+}
+
+.personal-data {
+  padding-left: 20px;
+}
+
+.row {
+  margin-top: 20px;
+}
+
+.btn-glucose {
+  margin-left: 10px;
+  margin-right: 30px;
+}
+
+.btn-smart-device {
+  margin-left: 10px;
+}
+
+.btn-display {
+  width: 100px;
+  margin-left: 20px;
+}
+
+.row-btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.row-filter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.row-radio {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.start-test {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.txt {
+  font-size: 18px;
+}
+
+.center {
+  text-align: center;
+}
